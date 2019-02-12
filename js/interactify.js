@@ -320,3 +320,16 @@ function createSortable(sortable, options){
         }
     });
 }
+
+// credit: http://www.javascriptkit.com/javatutors/touchevents2.shtml
+function swipedetect(component, callback){
+    var myRegion = new ZingTouch.Region(component.getElement().get(0));
+    myRegion.bind(component.getElement().get(0), 'swipe', function(e){
+        var dir = e.detail.data[0].currentDirection;
+        if(0 < dir && dir < 20 || dir > 340){
+            callback('right');
+        }else if(160 < dir && dir < 200){
+            callback('left');
+        }
+    });
+}

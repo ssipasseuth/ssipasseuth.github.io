@@ -80,6 +80,7 @@ $(function () {
     var overviewItem3 = createStyledComponent('.componentoverviewrow10', 'overview-row');
     var overviewItem4 = createStyledComponent('.componentoverviewrow11', 'overview-row');
     var sortable = createStyledComponent('.sortable', 'list-group col');
+    var swipeArea = createStyledComponent('.proto1', 'proto');
 
     /**
      * Global var to count the number of bookmarked items
@@ -182,11 +183,14 @@ $(function () {
         triggerHide: '.icon16remove',
     });
 
-    $(".proto").touchwipe({
-        wipeLeft: function() { createCarousel.previous();},
-        wipeRight: function() { createCarousel.next();},
-        min_move_x: 40,
-        min_move_y: 40,
-        preventDefaultEvents: true
+    swipedetect(swipeArea, function(swipedir){
+        switch(swipedir){
+            case 'right':
+                carousel.previous();
+                break;
+            case 'left':
+                carousel.next();
+                break;
+        }
     });
 });
