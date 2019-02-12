@@ -345,6 +345,689 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
+.proto1 .item4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 69px;
+  height              : 393px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .componentsetareaorderanswer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 93px;
+  height              : 300px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 114px;
+  height              : 252px;
+  width               : 251px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction .swapstatebg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction .swapstatebg .boxrounded {
+  background-color    : rgba(0, 81, 151, 1.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 250px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction .swaplabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction .swaplabel .placeholder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction .swaplabel .bodytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 186px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction .swapdraggableiconcolor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction .swapdraggableiconcolor .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction .swapdraggableiconcolor .swapicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction .swapdraggableiconcolor .swapicon .background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction .swapdraggableiconcolor .swapicon .swapiconcolor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 9px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 68px;
+  height              : 48px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction1 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction1 .swapstatebg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction1 .swapstatebg .boxrounded {
+  background-color    : rgba(0, 81, 151, 1.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 250px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction1 .swaplabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction1 .swaplabel .placeholder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction1 .swaplabel .bodytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 186px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction1 .swapdraggableiconcolor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction1 .swapdraggableiconcolor .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction1 .swapdraggableiconcolor .swapicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction1 .swapdraggableiconcolor .swapicon .background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction1 .swapdraggableiconcolor .swapicon .swapiconcolor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 9px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : 48px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction2 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction2 .swapstatebg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction2 .swapstatebg .boxrounded {
+  background-color    : rgba(0, 81, 151, 1.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 250px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction2 .swaplabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction2 .swaplabel .placeholder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction2 .swaplabel .bodytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 186px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction2 .swapdraggableiconcolor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction2 .swapdraggableiconcolor .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction2 .swapdraggableiconcolor .swapicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction2 .swapdraggableiconcolor .swapicon .background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction2 .swapdraggableiconcolor .swapicon .swapiconcolor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 9px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 204px;
+  height              : 48px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction3 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction3 .swapstatebg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction3 .swapstatebg .boxrounded {
+  background-color    : rgba(0, 81, 151, 1.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 250px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction3 .swaplabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction3 .swaplabel .placeholder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction3 .swaplabel .bodytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 186px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction3 .swapdraggableiconcolor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction3 .swapdraggableiconcolor .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction3 .swapdraggableiconcolor .swapicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction3 .swapdraggableiconcolor .swapicon .background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .sortable .componentchoicedraggablenoaction3 .swapdraggableiconcolor .swapicon .swapiconcolor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 9px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item4 .reorderthesealien {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(44, 45, 44, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.proto1 .item4 .componentinteractionrequirementempty {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 76px;
+  height              : 1px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
 .proto1 .item3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 48px;
@@ -400,10 +1083,180 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
+.proto1 .item3 .choiceedefault {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 370px;
+  height              : 48px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceedefault .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceedefault .swapstatebg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceedefault .swapstatebg .boxrounded {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 328px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(45, 45, 45, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceedefault .swapcontrol {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceedefault .swapcontrol .placeholder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceedefault .swapcontrol .rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 16px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceedefault .swapcontrol .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 16px;
+  box-sizing          : border-box;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  border-radius       : 2px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(45, 45, 45, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceedefault .swaplabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceedefault .swaplabel .placeholder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceedefault .swaplabel .bodytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.proto1 .item3 .choiceedefault .swaplabel .label {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
 .proto1 .item3 .choiceddefault {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 386px;
-  height              : 72px;
+  top                 : 306px;
+  height              : 48px;
   width               : 328px;
   position            : absolute;
   margin              : 0;
@@ -416,7 +1269,7 @@ div {
 .proto1 .item3 .choiceddefault .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 328px;
   position            : absolute;
   margin              : 0;
@@ -428,7 +1281,7 @@ div {
 .proto1 .item3 .choiceddefault .swapstatebg {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 328px;
   position            : absolute;
   margin              : 0;
@@ -438,9 +1291,9 @@ div {
   transform           : rotate(0deg);
 }
 .proto1 .item3 .choiceddefault .swapstatebg .boxrounded {
-  background-color    : rgba(255, 255, 255, 1.0);
+  background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   box-sizing          : border-box;
   width               : 328px;
   position            : relative;
@@ -511,7 +1364,7 @@ div {
 .proto1 .item3 .choiceddefault .swaplabel {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 280px;
   position            : absolute;
   margin              : 0;
@@ -523,7 +1376,7 @@ div {
 .proto1 .item3 .choiceddefault .swaplabel .placeholder {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 280px;
   position            : absolute;
   margin              : 0;
@@ -570,10 +1423,706 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
+.proto1 .item3 .choicecdefault {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 242px;
+  height              : 48px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicecdefault .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicecdefault .swapstatebg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicecdefault .swapstatebg .boxrounded {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 328px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(45, 45, 45, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicecdefault .swapcontrol {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicecdefault .swapcontrol .placeholder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicecdefault .swapcontrol .rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 16px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicecdefault .swapcontrol .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 16px;
+  box-sizing          : border-box;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  border-radius       : 2px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(45, 45, 45, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicecdefault .swaplabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicecdefault .swaplabel .placeholder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicecdefault .swaplabel .bodytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.proto1 .item3 .choicecdefault .swaplabel .label {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.proto1 .item3 .choicebdefault {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : 48px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicebdefault .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicebdefault .swapstatebg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicebdefault .swapstatebg .boxrounded {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 328px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(45, 45, 45, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicebdefault .swapcontrol {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicebdefault .swapcontrol .placeholder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicebdefault .swapcontrol .rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 16px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicebdefault .swapcontrol .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 16px;
+  box-sizing          : border-box;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  border-radius       : 2px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(45, 45, 45, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicebdefault .swaplabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicebdefault .swaplabel .placeholder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choicebdefault .swaplabel .bodytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.proto1 .item3 .choicebdefault .swaplabel .label {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.proto1 .item3 .choiceadefault {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 114px;
+  height              : 48px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceadefault .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceadefault .swapstatebg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceadefault .swapstatebg .boxrounded {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 328px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(45, 45, 45, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceadefault .swapcontrol {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceadefault .swapcontrol .placeholder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceadefault .swapcontrol .rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 16px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceadefault .swapcontrol .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 16px;
+  box-sizing          : border-box;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  border-radius       : 2px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(45, 45, 45, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceadefault .swaplabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceadefault .swaplabel .placeholder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceadefault .swaplabel .bodytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.proto1 .item3 .choiceadefault .swaplabel .label {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(45, 45, 45, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.proto1 .item3 .choiceeactive {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 370px;
+  height              : 48px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceeactive .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceeactive .swapstatebg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceeactive .swapstatebg .boxrounded {
+  background-color    : rgba(0, 81, 151, 1.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 328px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceeactive .swapcontrol {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceeactive .swapcontrol .placeholder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceeactive .swapcontrol .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 16px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceeactive .swapcontrol .icon16check {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceeactive .swapcontrol .icon16check .background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceeactive .swapcontrol .icon16check .swapiconcolor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 11px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceeactive .swaplabel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceeactive .swaplabel .placeholder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.proto1 .item3 .choiceeactive .swaplabel .bodytext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.proto1 .item3 .choiceeactive .swaplabel .label {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
 .proto1 .item3 .choicedactive {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 386px;
-  height              : 72px;
+  top                 : 306px;
+  height              : 48px;
   width               : 328px;
   position            : absolute;
   margin              : 0;
@@ -586,7 +2135,7 @@ div {
 .proto1 .item3 .choicedactive .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 328px;
   position            : absolute;
   margin              : 0;
@@ -598,7 +2147,7 @@ div {
 .proto1 .item3 .choicedactive .swapstatebg {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 328px;
   position            : absolute;
   margin              : 0;
@@ -610,7 +2159,7 @@ div {
 .proto1 .item3 .choicedactive .swapstatebg .boxrounded {
   background-color    : rgba(0, 81, 151, 1.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 328px;
   position            : relative;
   margin              : 0;
@@ -697,7 +2246,7 @@ div {
 .proto1 .item3 .choicedactive .swaplabel {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 280px;
   position            : absolute;
   margin              : 0;
@@ -709,7 +2258,7 @@ div {
 .proto1 .item3 .choicedactive .swaplabel .placeholder {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 280px;
   position            : absolute;
   margin              : 0;
@@ -756,180 +2305,10 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.proto1 .item3 .choicecdefault {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 282px;
-  height              : 96px;
-  width               : 328px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicecdefault .background {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 96px;
-  width               : 328px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicecdefault .swapstatebg {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 96px;
-  width               : 328px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicecdefault .swapstatebg .boxrounded {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 96px;
-  box-sizing          : border-box;
-  width               : 328px;
-  position            : relative;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 8px;
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(45, 45, 45, 1.0);
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicecdefault .swapcontrol {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 48px;
-  width               : 32px;
-  position            : absolute;
-  margin              : 0;
-  left                : 8px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicecdefault .swapcontrol .placeholder {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 48px;
-  width               : 32px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicecdefault .swapcontrol .rectangle2 {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 16px;
-  height              : 16px;
-  width               : 16px;
-  position            : absolute;
-  margin              : 0;
-  left                : 8px;
-  border-radius       : 2px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicecdefault .swapcontrol .rectangle1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 16px;
-  height              : 16px;
-  box-sizing          : border-box;
-  width               : 16px;
-  position            : absolute;
-  margin              : 0;
-  left                : 8px;
-  border-radius       : 2px;
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(45, 45, 45, 1.0);
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicecdefault .swaplabel {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 96px;
-  width               : 280px;
-  position            : absolute;
-  margin              : 0;
-  left                : 40px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicecdefault .swaplabel .placeholder {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 96px;
-  width               : 280px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicecdefault .swaplabel .bodytext {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
-  height              : auto;
-  width               : 240px;
-  position            : absolute;
-  margin              : 0;
-  left                : 32px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(45, 45, 45, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.proto1 .item3 .choicecdefault .swaplabel .label {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
-  height              : auto;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 8px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(45, 45, 45, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
 .proto1 .item3 .choicecactive {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 282px;
-  height              : 96px;
+  top                 : 242px;
+  height              : 48px;
   width               : 328px;
   position            : absolute;
   margin              : 0;
@@ -942,7 +2321,7 @@ div {
 .proto1 .item3 .choicecactive .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 96px;
+  height              : 48px;
   width               : 328px;
   position            : absolute;
   margin              : 0;
@@ -954,7 +2333,7 @@ div {
 .proto1 .item3 .choicecactive .swapstatebg {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 96px;
+  height              : 48px;
   width               : 328px;
   position            : absolute;
   margin              : 0;
@@ -966,7 +2345,7 @@ div {
 .proto1 .item3 .choicecactive .swapstatebg .boxrounded {
   background-color    : rgba(0, 81, 151, 1.0);
   top                 : 0px;
-  height              : 96px;
+  height              : 48px;
   width               : 328px;
   position            : relative;
   margin              : 0;
@@ -1053,7 +2432,7 @@ div {
 .proto1 .item3 .choicecactive .swaplabel {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 96px;
+  height              : 48px;
   width               : 280px;
   position            : absolute;
   margin              : 0;
@@ -1065,7 +2444,7 @@ div {
 .proto1 .item3 .choicecactive .swaplabel .placeholder {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 96px;
+  height              : 48px;
   width               : 280px;
   position            : absolute;
   margin              : 0;
@@ -1112,180 +2491,10 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.proto1 .item3 .choicebdefault {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 202px;
-  height              : 72px;
-  width               : 328px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicebdefault .background {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 328px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicebdefault .swapstatebg {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 328px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicebdefault .swapstatebg .boxrounded {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 72px;
-  box-sizing          : border-box;
-  width               : 328px;
-  position            : relative;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 8px;
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(45, 45, 45, 1.0);
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicebdefault .swapcontrol {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 48px;
-  width               : 32px;
-  position            : absolute;
-  margin              : 0;
-  left                : 8px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicebdefault .swapcontrol .placeholder {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 48px;
-  width               : 32px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicebdefault .swapcontrol .rectangle2 {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 16px;
-  height              : 16px;
-  width               : 16px;
-  position            : absolute;
-  margin              : 0;
-  left                : 8px;
-  border-radius       : 2px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicebdefault .swapcontrol .rectangle1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 16px;
-  height              : 16px;
-  box-sizing          : border-box;
-  width               : 16px;
-  position            : absolute;
-  margin              : 0;
-  left                : 8px;
-  border-radius       : 2px;
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(45, 45, 45, 1.0);
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicebdefault .swaplabel {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 280px;
-  position            : absolute;
-  margin              : 0;
-  left                : 40px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicebdefault .swaplabel .placeholder {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 280px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choicebdefault .swaplabel .bodytext {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
-  height              : auto;
-  width               : 240px;
-  position            : absolute;
-  margin              : 0;
-  left                : 32px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(45, 45, 45, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.proto1 .item3 .choicebdefault .swaplabel .label {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
-  height              : auto;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 8px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(45, 45, 45, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
 .proto1 .item3 .choicebactive {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 202px;
-  height              : 72px;
+  top                 : 178px;
+  height              : 48px;
   width               : 328px;
   position            : absolute;
   margin              : 0;
@@ -1298,7 +2507,7 @@ div {
 .proto1 .item3 .choicebactive .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 328px;
   position            : absolute;
   margin              : 0;
@@ -1310,7 +2519,7 @@ div {
 .proto1 .item3 .choicebactive .swapstatebg {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 328px;
   position            : absolute;
   margin              : 0;
@@ -1322,7 +2531,7 @@ div {
 .proto1 .item3 .choicebactive .swapstatebg .boxrounded {
   background-color    : rgba(0, 81, 151, 1.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 328px;
   position            : relative;
   margin              : 0;
@@ -1409,7 +2618,7 @@ div {
 .proto1 .item3 .choicebactive .swaplabel {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 280px;
   position            : absolute;
   margin              : 0;
@@ -1421,7 +2630,7 @@ div {
 .proto1 .item3 .choicebactive .swaplabel .placeholder {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 280px;
   position            : absolute;
   margin              : 0;
@@ -1468,180 +2677,10 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.proto1 .item3 .choiceadefault {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 122px;
-  height              : 72px;
-  width               : 328px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  overflow            : hidden;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choiceadefault .background {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 328px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choiceadefault .swapstatebg {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 328px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choiceadefault .swapstatebg .boxrounded {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 72px;
-  box-sizing          : border-box;
-  width               : 328px;
-  position            : relative;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 8px;
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(45, 45, 45, 1.0);
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choiceadefault .swapcontrol {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 48px;
-  width               : 32px;
-  position            : absolute;
-  margin              : 0;
-  left                : 8px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choiceadefault .swapcontrol .placeholder {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 48px;
-  width               : 32px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choiceadefault .swapcontrol .rectangle2 {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 16px;
-  height              : 16px;
-  width               : 16px;
-  position            : absolute;
-  margin              : 0;
-  left                : 8px;
-  border-radius       : 2px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choiceadefault .swapcontrol .rectangle1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 16px;
-  height              : 16px;
-  box-sizing          : border-box;
-  width               : 16px;
-  position            : absolute;
-  margin              : 0;
-  left                : 8px;
-  border-radius       : 2px;
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(45, 45, 45, 1.0);
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choiceadefault .swaplabel {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 280px;
-  position            : absolute;
-  margin              : 0;
-  left                : 40px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choiceadefault .swaplabel .placeholder {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 280px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.proto1 .item3 .choiceadefault .swaplabel .bodytext {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
-  height              : auto;
-  width               : 240px;
-  position            : absolute;
-  margin              : 0;
-  left                : 32px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(45, 45, 45, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.proto1 .item3 .choiceadefault .swaplabel .label {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
-  height              : auto;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 8px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Source Sans Pro", Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(45, 45, 45, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
 .proto1 .item3 .choiceaactive {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 122px;
-  height              : 72px;
+  top                 : 114px;
+  height              : 48px;
   width               : 328px;
   position            : absolute;
   margin              : 0;
@@ -1654,7 +2693,7 @@ div {
 .proto1 .item3 .choiceaactive .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 328px;
   position            : absolute;
   margin              : 0;
@@ -1666,7 +2705,7 @@ div {
 .proto1 .item3 .choiceaactive .swapstatebg {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 328px;
   position            : absolute;
   margin              : 0;
@@ -1678,7 +2717,7 @@ div {
 .proto1 .item3 .choiceaactive .swapstatebg .boxrounded {
   background-color    : rgba(0, 81, 151, 1.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 328px;
   position            : relative;
   margin              : 0;
@@ -1765,7 +2804,7 @@ div {
 .proto1 .item3 .choiceaactive .swaplabel {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 280px;
   position            : absolute;
   margin              : 0;
@@ -1777,7 +2816,7 @@ div {
 .proto1 .item3 .choiceaactive .swaplabel .placeholder {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
+  height              : 48px;
   width               : 280px;
   position            : absolute;
   margin              : 0;
@@ -3343,7 +4382,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.proto1 .btntimer .a2755 {
+.proto1 .btntimer .a1000 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 31px;
   height              : auto;
@@ -3358,7 +4397,7 @@ div {
   font-weight         : 400;
   font-style          : normal;
   font-size           : 14.0px;
-  color               : rgba(255, 255, 255, 1.0);
+  color               : rgba(254, 255, 254, 1.0);
   text-align          : left;
   line-height         : 24.0px;
 }

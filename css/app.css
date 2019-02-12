@@ -16,17 +16,9 @@ textarea.interactify{
 
 /*app specific*/
 
-.activable-choice.active .boxrounded{
-    background: #005197 !important;
-}
-.activable-choice.active .label{
-    color: white !important;
-}
-.activable-choice.active .bodytext{
-    color: white !important;
-}
-
-/*.paneloverview .bookmarkon{display: none;}*/
+.activable-choice.active .boxrounded{background: #005197 !important;}
+.activable-choice.active .label{color: white !important;}
+.activable-choice.active .bodytext{color: white !important;}
 
 .overview-row .boxrounded{background: rgba(186, 186, 186, 1.0) !important;}
 .overview-row .a2, .overview-row .a1{color: rgba(45, 45, 45, 1.0) !important;}
@@ -38,6 +30,11 @@ textarea.interactify{
 .paneloverview .overview-row.bookmarked .bookmarkon{display: block !important;}
 
 
-
+.list-group .sortable-ghost .boxrounded{
+    border: 2px dashed #005196 !important;;
+    background-color: #E9F3FF !important;
+    width: calc(100% - 4px) !important;
+    height: calc(100% - 6px) !important;
+}
 
 

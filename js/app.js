@@ -1,6 +1,8 @@
 $(function () {
-    // createSelectable('.componentchoicestaticcontrolnoaction, .componentchoicestaticcontrolnoaction1, .componentchoicestaticcontrolnoaction2', 'activable-choice');
 
+    /**
+     * Define components
+     */
     var interaction1_choiceA = createComponent({
        default:  '.item1 .choiceadefault',
        active:  '.item1 .choiceaactive'
@@ -34,11 +36,16 @@ $(function () {
         default:  '.item3 .choiceddefault',
         active:  '.item3 .choicedactive'
     });
+    var interaction3_choiceE = createComponent({
+        default:  '.item3 .choiceedefault',
+        active:  '.item3 .choiceeactive'
+    });
 
     var testContent = createComponent({
         'default':  '.item1',
         'item2':  '.item2',
-        'item3':  '.item3'
+        'item3':  '.item3',
+        'item4':  '.item4',
     });
     var nextButton = createComponent({
         'default': '.btnnext'
@@ -51,25 +58,40 @@ $(function () {
         'default': '.item2 .rectangle1'
     });
 
-    var itemNumber = createText('.item1220');
+    var bookmarkToggle = createComponent({
+        default: '.btnbookmarkinitial',
+        active: '.btnbooknarkactive'
+    });
 
-    var item1 = createStyledComponent('.item1', 'item');
-    var item2 = createStyledComponent('.item2', 'item');
-    var item3 = createStyledComponent('.item3', 'item');
+    /**
+     * Define dynamic text
+     */
+    var itemNumber = createText('.item1220');
+    var timerText = createText('.a1000');
+    var textBookmarkCounter = createText('.bookmarked0');
+
+    //set timer
+    setTimer(timerText);
 
     //quick hack to initially hide all bookmarks
     $('.paneloverview .bookmarkon').hide();
     var overviewItem1 = createStyledComponent('.componentoverviewrow8', 'overview-row');
     var overviewItem2 = createStyledComponent('.componentoverviewrow9', 'overview-row');
     var overviewItem3 = createStyledComponent('.componentoverviewrow10', 'overview-row');
+    var overviewItem4 = createStyledComponent('.componentoverviewrow11', 'overview-row');
+    var sortable = createStyledComponent('.sortable', 'list-group col');
 
-    var bookmarkToggle = createComponent({
-        default: '.btnbookmarkinitial',
-        active: '.btnbooknarkactive'
-    });
-
+    /**
+     * Global var to count the number of bookmarked items
+     * @type {number}
+     */
     var bookmarkCount = 0;
-    var textBookmarkCounter = createText('.bookmarked0');
+
+    /**
+     * Global var to track the current item position
+     * @type {number}
+     */
+    var itemPos = 0;
 
     function getItem(){
         switch(itemPos){
@@ -79,6 +101,8 @@ $(function () {
                 return overviewItem2;
             case 2:
                 return overviewItem3;
+            case 3:
+                return overviewItem4;
         }
     }
 
@@ -96,13 +120,12 @@ $(function () {
     });
 
     //test navigation
-    var itemPos = 0;
     createCarousel(testContent, {
-        sequence: ['default', 'item2', 'item3'],
+        sequence: ['default', 'item2', 'item3', 'item4'],
         next: nextButton,
         previous: prevButton,
         callback: function cb(pos){
-            itemNumber.setText('ITEM '+ (12 + pos) + '/20');
+            itemNumber.setText('ITEM '+ (12 + pos) + '/19');
             itemPos = pos;
 
             if(getItem().is('bookmarked')){
@@ -133,13 +156,18 @@ $(function () {
             }
         }
     });
-    var interaction3 = createCheckboxGroup([interaction3_choiceA, interaction3_choiceB, interaction3_choiceC, interaction3_choiceD], {
+    var interaction3 = createCheckboxGroup([interaction3_choiceA, interaction3_choiceB, interaction3_choiceC, interaction3_choiceD, interaction3_choiceE], {
         callback:function cb(text){
             if(text){
                 overviewItem3.setState('answered');
             }else{
                 overviewItem3.removeState('answered');
             }
+        }
+    });
+    var interaction4 = createSortable(sortable, {
+        callback : function cb(){
+            overviewItem4.setState('answered');
         }
     });
 
@@ -153,8 +181,4 @@ $(function () {
         triggerShow: '.btnoverview',
         triggerHide: '.icon16remove',
     });
-
-    setTimer('.a2755', {});
-
-
 });

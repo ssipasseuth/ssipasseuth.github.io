@@ -3,10 +3,9 @@ function uniqid(){
     return interactifyIdCounter++;
 }
 
-function setTimer(selector, options){
-    var $element = $(selector);
+function setTimer(textComponent){
     var timer = setInterval(function() {
-        var time = $element.text();
+        var time = textComponent.getText();
         var token = time.split(':');
         var sec = parseInt(token[1]);
         var min = parseInt(token[0]);
@@ -31,7 +30,7 @@ function setTimer(selector, options){
         if(sec<10){
             sec = '0' + sec;
         }
-        $element.html(min + ':' + sec);
+        textComponent.setText(min + ':' + sec);
     }, 1000);
 }
 
@@ -300,6 +299,24 @@ function createActivable(component, options){
         //TODO use event emitter instead!
         if(options && options.callback){
             options.callback.call(null, 'default');
+        }
+    });
+}
+
+function createSortable(sortable, options){
+    sortable.getElement().children().addClass('list-group-item').css({
+        position: 'relative',
+        top: 0,
+        'margin-bottom': 20,
+    });
+    new Sortable(sortable.getElement().get(0), {
+        animation: 150,
+        ghostClass: 'sortable-ghost',
+        onSort : function onSort(){
+            //TODO use event emitter instead!
+            if(options && options.callback){
+                options.callback.call();
+            }
         }
     });
 }
