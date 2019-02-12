@@ -120,7 +120,7 @@ $(function () {
     });
 
     //test navigation
-    createCarousel(testContent, {
+    var carousel = createCarousel(testContent, {
         sequence: ['default', 'item2', 'item3', 'item4'],
         next: nextButton,
         previous: prevButton,
@@ -180,5 +180,13 @@ $(function () {
         event: 'click',
         triggerShow: '.btnoverview',
         triggerHide: '.icon16remove',
+    });
+
+    $(".proto").touchwipe({
+        wipeLeft: function() { createCarousel.previous();},
+        wipeRight: function() { createCarousel.next();},
+        min_move_x: 40,
+        min_move_y: 40,
+        preventDefaultEvents: true
     });
 });
