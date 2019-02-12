@@ -184,6 +184,7 @@ $(function () {
     });
 
     swipedetect(swipeArea, function(swipedir){
+        return;
         switch(swipedir){
             case 'right':
                 carousel.previous();
