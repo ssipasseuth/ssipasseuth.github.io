@@ -1,0 +1,43 @@
+/*interactify framework*/
+body {
+    background: black !important;
+}
+
+body > div{
+    background: none !important;
+    height: 640px !important;
+}
+
+textarea.interactify{
+    width: calc(100% - 2px);
+    height: calc(100% - 1px);
+    border: none;
+}
+
+/*app specific*/
+
+.activable-choice.active .boxrounded{
+    background: #005197 !important;
+}
+.activable-choice.active .label{
+    color: white !important;
+}
+.activable-choice.active .bodytext{
+    color: white !important;
+}
+
+/*.paneloverview .bookmarkon{display: none;}*/
+
+.overview-row .boxrounded{background: rgba(186, 186, 186, 1.0) !important;}
+.overview-row .a2, .overview-row .a1{color: rgba(45, 45, 45, 1.0) !important;}
+.overview-row .bookmarkon{display: none;}
+
+.overview-row.answered .boxrounded {background: #005197 !important;}
+.overview-row.answered .a2, .overview-row.answered .a1 {color: white !important;}
+
+.paneloverview .overview-row.bookmarked .bookmarkon{display: block !important;}
+
+
+
+
+
