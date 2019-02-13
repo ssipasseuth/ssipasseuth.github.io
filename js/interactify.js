@@ -261,7 +261,7 @@ function createScrollable(selector, options){
 
 function createTextArea(component, options){
     var $testArea = $('<textarea>').addClass('interactify');
-    component.getElement().append($testArea);
+    component.getElement().css('border', 'none').append($testArea);
     $testArea.on('change', function(){
         if(options && options.callback){
             options.callback.call(this, $testArea.val());
