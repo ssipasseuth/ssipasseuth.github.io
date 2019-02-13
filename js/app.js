@@ -183,8 +183,8 @@ $(function () {
         triggerHide: '.icon16remove',
     });
 
+    return;
     swipedetect(swipeArea, function(swipedir){
-        return;
         switch(swipedir){
             case 'right':
                 carousel.previous();
